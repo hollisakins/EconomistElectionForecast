@@ -1,0 +1,12 @@
+name: EconomistElectionForecast
+title: EconomistElectionForecast
+username:
+account: hollisakins
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3149952
+bundleId: 3813910
+url: https://hollisakins.shinyapps.io/EconomistElectionForecast/
+when: 1604380722.09796
+asMultiple: FALSE
+asStatic: FALSE
